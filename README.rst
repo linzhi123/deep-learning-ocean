@@ -4,7 +4,7 @@
    :scale: 50 %
    :alt: alternate text
    :align: right
-   :target: https://twitter.com/osforscience
+   :target: https://twitter.com/machinemindset
 
 ###################################################
 Deep Learning - All You Need to Know
@@ -16,8 +16,8 @@ Deep Learning - All You Need to Know
     :target: https://github.com/ellerbrock/open-source-badge/
 .. image:: https://img.shields.io/pypi/l/ansicolortags.svg
       :target: https://github.com/osforscience/deep-learning-all-you-need/blob/master/LICENSE
-.. image:: https://img.shields.io/twitter/follow/osforscience.svg?label=Follow&style=social
-      :target: https://twitter.com/osforscience
+.. image:: https://img.shields.io/twitter/follow/machinemindset.svg?label=Follow&style=social
+      :target: https://twitter.com/machinemindset
 
 
 
@@ -51,7 +51,7 @@ There are different motivations for this open source project.
 What's the point of this open source project?
 ------------------------------------------------------------
 
-There other similar repositories similar to this repository and are very
+There are other repositories similar to this repository that are very
 comprehensive and useful and to be honest they made me ponder if there is
 a necessity for this repository!
 
@@ -831,7 +831,7 @@ Blogs
 * **WILDML**:
   [`Link <http://www.wildml.com/about/>`_]
 
-* **Distill blog** It is more like a journal than a blog because it has a peer review process and only accepyed articles will be published on that.:
+* **Distill blog** It is more like a journal than a blog because it has a peer review process and only accepted articles will be published on that.:
   [`Link <https://distill.pub/>`_]
 
 * **BAIR** Berkeley Artificial Inteliigent Research:
